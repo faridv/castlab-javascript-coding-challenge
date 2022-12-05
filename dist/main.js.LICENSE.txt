@@ -1,0 +1,5 @@
+/*!
+* based on codem-isoboxer v0.3.7 https://github.com/madebyhiro/codem-isoboxer
+* I have removed extra methods that were useless in the task (write, etc.), refactored the code, shook the tree,
+* and rewrote the code to match the ECMA Object-Oriented scheme.
+*/

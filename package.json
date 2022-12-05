@@ -1,0 +1,15 @@
+{
+  "name": "castlabs-project",
+  "version": "1.0.0",
+  "description": "This is the castLabs challenge for JavaScript developer role",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --mode=production"
+  },
+  "author": "Farid Roshan",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.0"
+  }
+}
